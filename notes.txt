@@ -1,0 +1,2 @@
+/Users/Akshit/.conda/envs/woosig/lib/python3.10/site-packages/zipline
+zipline ingest -b spy-prices-2010-2021
